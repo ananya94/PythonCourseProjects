@@ -1,0 +1,39 @@
+.container{
+    width:60%;
+    margin: 0 auto;
+}
+th{
+    border-style:solid;
+    border-color:lightgray;
+    text-align:center;
+}
+th a{
+    color:gray;
+}
+table{
+    width:100%;
+    max-width:100%;
+}
+#homeimage{
+    width:100%;
+    border:5px double black;
+}
+#firstnavbutton{
+    border-left:none;
+}
+#lastnavbutton{
+    border-right:none;
+}
+#newsfeed{
+    color:white;
+    background-color:maroon;
+    height:279px;
+    overflow-x:hidden;
+}
+#footerlinks{
+    margin:0 auto;
+    text-align:center;
+}
+footer a{
+    color:gray;
+}
